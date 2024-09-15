@@ -84,9 +84,9 @@ repositories:
     url: https://github.com/tier4/glog.git
     version: v0.6.0_t4-ros
   # launcher
-  launcher/autoware_launch.init_vehicle:
+  launcher/autoware_launch.init:
     type: git
-    url: https://github.com/toffanetto/autoware_launch.init_vehicle.git
+    url: https://github.com/toffanetto/autoware_launch.init.git
     version: main
   # sensor_component
   sensor_component/external/sensor_component_description:
